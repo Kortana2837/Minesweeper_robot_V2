@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=NetU1_26 Pin=U2-2
+Removed Pin From Net: NetName=+5 Pin=U2-3
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=U?(TO-92-TO92127P495H2044-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS18B20/Maxim+Integrated/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS18B20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-226-3 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS18B20/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS18B20/Maxim+Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetU1_26 Pin=U?-2
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Member To Class: ClassName=Sheet1 Member=Component U? DS18B20
+Added Room: Name=Sheet1

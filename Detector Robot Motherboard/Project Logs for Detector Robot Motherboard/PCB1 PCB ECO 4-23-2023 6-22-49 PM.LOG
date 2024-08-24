@@ -1,0 +1,12 @@
+Added Component: Designator=M(PCBComponent_1)
+Added Pin To Net: NetName=+5 Pin=M-1
+Added Pin To Net: NetName=GND Pin=M-2
+Added Pin To Net: NetName=NetM_3 Pin=M-3
+Added Pin To Net: NetName=NetM_4 Pin=M-4
+Added Member To Class: ClassName=Localization MCU Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Localization MCU Member=Component M MPU9250 Module
+Added Member To Class: ClassName=Main MCU Member=Component M LM2596 Buck Converter
+Added Member To Class: ClassName=Localization MCU Member=Component P12 Encoder2
+Added Member To Class: ClassName=Main MCU Member=Component Q1 NMOS-2
+Added Member To Class: ClassName=Main MCU Member=Component R2 Res1
+Added Member To Class: ClassName=Localization MCU Member=Component U6 CH340C

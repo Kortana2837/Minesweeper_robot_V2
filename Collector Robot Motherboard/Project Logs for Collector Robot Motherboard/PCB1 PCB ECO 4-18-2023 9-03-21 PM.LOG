@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component J2 USB-B
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Motor Driver
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 NMOS-2
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 DS18B20
+Add Class Member: Failed to add class member : Component U4 AMS1117-3.3
+Added Room: Name=Sheet1

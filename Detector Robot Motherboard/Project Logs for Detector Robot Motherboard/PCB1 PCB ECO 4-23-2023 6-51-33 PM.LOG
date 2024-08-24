@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VBat Pin=M-1
+Removed Pin From Net: NetName=GND Pin=M-3
+Removed Pin From Net: NetName=+5 Pin=M-4
+Change Component Footprint: Designator=M Old Footprint=PCBComponent_1 New Footprint=MPU9250 Module
+Change Component Comment : Designator=M Old Comment=LM2596 Buck Converter New Comment=MPU9250 Module
+Added Component: Designator=M(LM2596 Buck)
+Added Pin To Net: NetName=+5 Pin=M-1
+Added Pin To Net: NetName=VBat Pin=M-1
+Added Pin To Net: NetName=GND Pin=M-2
+Added Pin To Net: NetName=GND Pin=M-3
+Added Pin To Net: NetName=+5 Pin=M-4
+Added Pin To Net: NetName=NetM_3 Pin=M-3
+Added Pin To Net: NetName=NetM_3 Pin=U5-28
+Added Net: Name=NetM_3
+Added Pin To Net: NetName=NetM_4 Pin=M-4
+Added Pin To Net: NetName=NetM_4 Pin=U5-27
+Added Net: Name=NetM_4
+Added Member To Class: ClassName=Localization MCU Member=Component M MPU9250 Module
+Added Member To Class: ClassName=Main MCU Member=Component M LM2596 Buck Converter

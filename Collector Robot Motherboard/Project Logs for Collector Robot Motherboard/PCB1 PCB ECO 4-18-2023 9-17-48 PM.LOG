@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=+5 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Pin To Net: NetName=NetU1_26 Pin=U2-2
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Pin To Net: NetName=NetU1_30 Pin=U3-2
+Added Net: Name=NetU1_30
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=U3-3
+Added Net: Name=NetU1_31
+Added Room: Name=Sheet1

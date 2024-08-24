@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 Pin=M-1
+Removed Pin From Net: NetName=GND Pin=M-2
+Removed Member From Class: ClassName=Localization MCU Member=M
+Added Pin To Net: NetName=NetU5_27 Pin=U5-27
+Added Net: Name=NetU5_27
+Added Pin To Net: NetName=NetU5_28 Pin=U5-28
+Added Net: Name=NetU5_28

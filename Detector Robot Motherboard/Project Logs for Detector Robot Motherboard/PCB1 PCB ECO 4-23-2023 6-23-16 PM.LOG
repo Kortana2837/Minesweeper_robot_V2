@@ -1,0 +1,33 @@
+Added Component: Designator=U5(TQFP32-0.8-7X7MM)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA8A-AU/Microchip/view-part/49714/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA8A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA8A-AU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA8A-AU/Microchip/view-part/49714/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP11_4 Pin=U5-1
+Added Pin To Net: NetName=NetP12_3 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=+5 Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=+5 Pin=U5-6
+Added Pin To Net: NetName=XTAL11 Pin=U5-7
+Added Pin To Net: NetName=XTAL22 Pin=U5-8
+Added Pin To Net: NetName=NetP12_4 Pin=U5-9
+Added Pin To Net: NetName=CSN Pin=U5-14
+Added Pin To Net: NetName=MOSI Pin=U5-15
+Added Pin To Net: NetName=MISO Pin=U5-16
+Added Pin To Net: NetName=SCK Pin=U5-17
+Added Pin To Net: NetName=+5 Pin=U5-18
+Added Pin To Net: NetName=+5 Pin=U5-20
+Added Pin To Net: NetName=GND Pin=U5-21
+Added Pin To Net: NetName=NetM_4 Pin=U5-27
+Added Pin To Net: NetName=NetM_3 Pin=U5-28
+Added Pin To Net: NetName=NetP10_5 Pin=U5-29
+Added Pin To Net: NetName=NetU5_30 Pin=U5-30
+Added Pin To Net: NetName=NetU5_31 Pin=U5-31
+Added Pin To Net: NetName=NetP11_3 Pin=U5-32
+Added Member To Class: ClassName=Localization MCU Member=Component U5 MCU-ATMEGA8A-AU(TQFP32)
